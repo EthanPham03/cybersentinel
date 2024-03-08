@@ -13,9 +13,17 @@
 
 -[Group Project: Team Agreement
 ](https://docs.google.com/document/d/1a_XQuJGyuYDek6-72Xvsw67-YUMS1D6R1guL3VOFp20/edit?usp=sharing)
+-[Project Manging Tool](https://trello.com/invite/b/H268x7CI/ATTI48a41afe6d3e499f2cde946d8a80b2f1C250A66D/my-trello-board)
 
 ## SOP
 -[Our SOP](https://docs.google.com/document/d/1nWas6RqdmkRPbWuctqBouacoxTdlCm9ljIKIlm8ivcs/edit?usp=sharing)
+
+## Presentation Slides
+-[Our Slide Show](https://docs.google.com/presentation/d/1R-FmcJyKIA1eYXvkJOyU2ZrE3OUx4RGGT0LwJxHisf4/edit?usp=sharing)
+
+
+
+
 ## Project Description
 Video Editing and Backup Solution:
 
