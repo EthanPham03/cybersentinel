@@ -1,5 +1,5 @@
 # cybersentinel
-
+![Team Logo](https://files.slack.com/files-pri/T039KG69K-F06P2FBTAKB/dall__e_2024-03-08_15.53.51_-_design_a_sleek_and_modern_logo_for__cyber_sentinel___an_it_security_company._the_logo_should_incorporate_digital_or_cyber_themes__suggesting_protectio.webp)
 # EduChannel Expansion Initiative
 ## Team Members
 - [Ethan](https://github.com/EthanPham03)
