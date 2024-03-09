@@ -16,15 +16,16 @@
 -[Project Manging Tool](https://trello.com/invite/b/H268x7CI/ATTI48a41afe6d3e499f2cde946d8a80b2f1C250A66D/my-trello-board)
 
 ## SOP
--[Our SOP](https://docs.google.com/document/d/1nWas6RqdmkRPbWuctqBouacoxTdlCm9ljIKIlm8ivcs/edit?usp=sharing)
+-[Our SOP](https://github.com/EthanPham03/cybersentinel/blob/main/SOP.pdf)
 
 ## Presentation Slides
 -[Our Slide Show](https://docs.google.com/presentation/d/1R-FmcJyKIA1eYXvkJOyU2ZrE3OUx4RGGT0LwJxHisf4/edit?usp=sharing)
 
 
-## Files
+## Files 
 -[Systems Selection Document](https://github.com/EthanPham03/cybersentinel/blob/main/systemssdoc.md)
-
+## Systems, Platforms, and Tools Implementation
+-[Our List](https://github.com/EthanPham03/cybersentinel/blob/main/ops-201d12%20Team%20Powershell%20System%20Selection%20(1).pdf)
 ## Project Description
 Video Editing and Backup Solution:
 
