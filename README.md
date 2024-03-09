@@ -11,8 +11,8 @@
 
 
 
--[Group Project: Team Agreement
-](https://docs.google.com/document/d/1a_XQuJGyuYDek6-72Xvsw67-YUMS1D6R1guL3VOFp20/edit?usp=sharing)
+-[Group Project: Team Agreement](https://docs.google.com/document/d/1a_XQuJGyuYDek6-72Xvsw67-YUMS1D6R1guL3VOFp20/edit?usp=sharing)
+
 -[Project Manging Tool](https://trello.com/invite/b/H268x7CI/ATTI48a41afe6d3e499f2cde946d8a80b2f1C250A66D/my-trello-board)
 
 ## SOP
