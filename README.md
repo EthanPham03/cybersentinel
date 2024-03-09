@@ -5,7 +5,7 @@
 - [Ethan](https://github.com/EthanPham03)
 - [Brad](https://github.com/bjbaack)
 - [Cody](https://github.com/Cody354)
-- [Becca](https://github.com/Crimson-Raven)
+- [Becca Childs](https://github.com/Crimson-Raven)
 
 
 
@@ -22,7 +22,8 @@
 -[Our Slide Show](https://docs.google.com/presentation/d/1R-FmcJyKIA1eYXvkJOyU2ZrE3OUx4RGGT0LwJxHisf4/edit?usp=sharing)
 
 
-
+## Files
+-[Systems Selection Document](https://github.com/EthanPham03/cybersentinel/blob/main/systemssdoc.md)
 
 ## Project Description
 Video Editing and Backup Solution:
