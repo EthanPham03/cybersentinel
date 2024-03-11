@@ -25,6 +25,10 @@
 
 ## Systems, Platforms, and Tools Implementation
 -[Our List](https://github.com/EthanPham03/cybersentinel/blob/main/ops-201d12%20Team%20Powershell%20System%20Selection%20(4).pdf)
+
+-[Microsoft 365 Diagram](https://github.com/EthanPham03/cybersentinel/blob/main/Microsoft365Diagram.drawio.pdf)
+
+-[Network Diagram](https://github.com/EthanPham03/cybersentinel/blob/main/Network_Diagram.drawio.pdf)
 ## Project Description
 Video Editing and Backup Solution:
 s
