@@ -24,7 +24,7 @@
 
 
 ## Systems, Platforms, and Tools Implementation
--[Our List](https://github.com/EthanPham03/cybersentinel/blob/main/ops-201d12%20Team%20Powershell%20System%20Selection%20(3).pdf)
+-[Our List](https://github.com/EthanPham03/cybersentinel/blob/main/ops-201d12%20Team%20Powershell%20System%20Selection%20(4).pdf)
 ## Project Description
 Video Editing and Backup Solution:
 s
