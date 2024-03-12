@@ -2,10 +2,11 @@
 ![](<DALL·E 2024-03-08 15.53.51 - Design a sleek and modern logo for 'Cyber Sentinel', an IT security company. The logo should incorporate digital or cyber themes, suggesting protectio.webp>)
 # EduChannel Expansion Initiative
 ## Team Members
-- [Ethan Pham](https://github.com/EthanPham03)
-- [Brad Baack](https://github.com/bjbaack)
-- [Cody Blahnik](https://github.com/Cody354)
-- [Becca Childs](https://github.com/Crimson-Raven)
+- [Ethan Pham Github](https://github.com/EthanPham03)-[linkedin Profile](https://www.linkedin.com/in/ethan-pham-8a9a622b3/)
+- [Brad Baack Github](https://github.com/bjbaack)-[linkedin Profile](https://www.linkedin.com/in/bradleybaack/)
+- [Cody Blahnik Github](https://github.com/Cody354)-[linkedin Profile](https://www.linkedin.com/in/cody-blahnik-/)
+
+- [Becca Childs Github](https://github.com/Crimson-Raven) -[linkedin Profile](https://www.linkedin.com/in/rebecca-childs-b69b61166/)
 
 
 
