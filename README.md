@@ -25,7 +25,7 @@
 
 
 ## Systems, Platforms, and Tools Implementation
--[Our List](https://github.com/EthanPham03/cybersentinel/blob/main/ops-201d12%20Team%20Powershell%20System%20Selection%20(4).pdf)
+-[Our List](https://github.com/EthanPham03/cybersentinel/blob/main/ops-201d12%20Team%20Powershell%20System%20Selection%20(5).pdf)
 
 -[Microsoft 365 Diagram](https://github.com/EthanPham03/cybersentinel/blob/main/Microsoft365Diagram.drawio.pdf)
 
