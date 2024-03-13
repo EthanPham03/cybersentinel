@@ -27,6 +27,10 @@
 ## Systems, Platforms, and Tools Implementation
 -[Our List](https://github.com/EthanPham03/cybersentinel/blob/main/ops-201d12%20Team%20Powershell%20System%20Selection%20(5).pdf)
 
+## Scrips
+
+-[New User PowerShell Script](https://github.com/EthanPham03/cybersentinel/blob/main/scripts/NewUser.ps1)
+
 -[Google Workspace](https://github.com/EthanPham03/cybersentinel/blob/main/Google%20Workspace%20Diagram.drawio.pdf)
 
 -[Network Diagram](https://github.com/EthanPham03/cybersentinel/blob/main/Network_Diagram.drawio.pdf)
