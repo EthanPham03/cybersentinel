@@ -27,13 +27,14 @@
 ## Systems, Platforms, and Tools Implementation
 -[Our List](https://github.com/EthanPham03/cybersentinel/blob/main/files/ops-201d12%20Team%20Powershell%20System%20Selection%20(5).pdf)
 
+-[Google Workspace](https://github.com/EthanPham03/cybersentinel/blob/main/files/Google%20Workspace%20Diagram.drawio.pdf)
+
+-[Network Diagram](https://github.com/EthanPham03/cybersentinel/blob/main/files/Network%20Diagram.drawio.pdf)
 ## Scrips
 
 -[New User PowerShell Script](https://github.com/EthanPham03/cybersentinel/blob/main/scripts/NewUser.ps1)
 
--[Google Workspace](https://github.com/EthanPham03/cybersentinel/blob/main/files/Google%20Workspace%20Diagram.drawio.pdf)
 
--[Network Diagram](https://github.com/EthanPham03/cybersentinel/blob/main/files/Network%20Diagram.drawio.pdf)
 ## Project Description
 Video Editing and Backup Solution:
 s
