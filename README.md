@@ -12,12 +12,12 @@
 
 
 
--[Group Project: Team Agreement](https://github.com/EthanPham03/cybersentinel/blob/main/Ops-201d12%20Team%20Powershell%20-%20Team%20Agreement%20(2).pdf)
+-[Group Project: Team Agreement](https://github.com/EthanPham03/cybersentinel/blob/main/files/Ops-201d12%20Team%20Powershell%20-%20Team%20Agreement%20(2).pdf)
 
 -[Project Manging Tool](https://trello.com/invite/b/H268x7CI/ATTI48a41afe6d3e499f2cde946d8a80b2f1C250A66D/my-trello-board)
 
 ## SOP
--[Our SOP](https://github.com/EthanPham03/cybersentinel/blob/main/SOP%20(3).pdf)
+-[Our SOP](https://github.com/EthanPham03/cybersentinel/blob/main/files/SOP%20(3).pdf)
 
 ## Presentation Slides
 -[Our Slide Show](https://docs.google.com/presentation/d/1R-FmcJyKIA1eYXvkJOyU2ZrE3OUx4RGGT0LwJxHisf4/edit?usp=sharing)
@@ -25,15 +25,15 @@
 
 
 ## Systems, Platforms, and Tools Implementation
--[Our List](https://github.com/EthanPham03/cybersentinel/blob/main/ops-201d12%20Team%20Powershell%20System%20Selection%20(5).pdf)
+-[Our List](https://github.com/EthanPham03/cybersentinel/blob/main/files/ops-201d12%20Team%20Powershell%20System%20Selection%20(5).pdf)
 
 ## Scrips
 
 -[New User PowerShell Script](https://github.com/EthanPham03/cybersentinel/blob/main/scripts/NewUser.ps1)
 
--[Google Workspace](https://github.com/EthanPham03/cybersentinel/blob/main/Google%20Workspace%20Diagram.drawio.pdf)
+-[Google Workspace](https://github.com/EthanPham03/cybersentinel/blob/main/files/Google%20Workspace%20Diagram.drawio.pdf)
 
--[Network Diagram](https://github.com/EthanPham03/cybersentinel/blob/main/Network%20Diagram.drawio.pdf)
+-[Network Diagram](https://github.com/EthanPham03/cybersentinel/blob/main/files/Network%20Diagram.drawio.pdf)
 ## Project Description
 Video Editing and Backup Solution:
 s
