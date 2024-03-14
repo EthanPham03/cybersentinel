@@ -33,7 +33,7 @@
 
 -[Google Workspace](https://github.com/EthanPham03/cybersentinel/blob/main/Google%20Workspace%20Diagram.drawio.pdf)
 
--[Network Diagram](https://github.com/EthanPham03/cybersentinel/blob/main/Network_Diagram.drawio.pdf)
+-[Network Diagram](https://github.com/EthanPham03/cybersentinel/blob/main/Network%20Diagram.drawio.pdf)
 ## Project Description
 Video Editing and Backup Solution:
 s
