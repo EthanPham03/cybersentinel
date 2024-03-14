@@ -17,7 +17,7 @@
 -[Project Manging Tool](https://trello.com/invite/b/H268x7CI/ATTI48a41afe6d3e499f2cde946d8a80b2f1C250A66D/my-trello-board)
 
 ## SOP
--[Our SOP](https://github.com/EthanPham03/cybersentinel/blob/main/files/SOP%20(3).pdf)
+-[Our SOP](https://github.com/EthanPham03/cybersentinel/blob/main/files/sop%20(4).pdf)
 
 ## Presentation Slides
 -[Our Slide Show](https://docs.google.com/presentation/d/1R-FmcJyKIA1eYXvkJOyU2ZrE3OUx4RGGT0LwJxHisf4/edit?usp=sharing)
