@@ -1,5 +1,5 @@
 # CyberSentinel
-![](<DALL·E 2024-03-08 15.53.51 - Design a sleek and modern logo for 'Cyber Sentinel', an IT security company. The logo should incorporate digital or cyber themes, suggesting protectio.webp>)
+![alt text](image.png)
 # EduChannel Expansion Initiative
 ## Team Members
 - [Ethan Pham Github](https://github.com/EthanPham03)-[linkedin Profile](https://www.linkedin.com/in/ethan-pham-8a9a622b3/)
